@@ -1,6 +1,5 @@
-# ZoomiWithAnI (zoomiwithani)
-
-A ZoomiWithAnI
+Master branch contains the building blocks.
+Feature branches consist of basic component setups.
 
 ## Install the dependencies
 ```bash

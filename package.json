@@ -42,6 +42,8 @@
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^5.0.0",
     "majestic": "^1.2.24",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
     "ts-jest": "^24.0.2",
     "typescript": "^3.3.3"
   },
